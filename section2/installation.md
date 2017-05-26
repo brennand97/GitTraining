@@ -1,7 +1,7 @@
 These are the instructions for installing your product.
 
 # Install
-TODO: write instructions explaining how to install the product
+Here are some instructions that are very helpful
 
 # Uninstall
 TODO: tell people how to uninstall the product
